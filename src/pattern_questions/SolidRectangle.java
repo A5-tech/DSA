@@ -1,4 +1,4 @@
-package pattern.questions;
+package pattern_questions;
 
 public class SolidRectangle {
     public static void main(String[] args) {
